@@ -1,3 +1,5 @@
+🧩 User Story: I Want to Be Seen as a Whole Person, Not a Set of Disconnected Symptoms
+
 🧍‍♂️ User
 
 A patient managing multiple long-term conditions (e.g. diabetes, mental health, substance use)
