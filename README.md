@@ -61,7 +61,9 @@ discovery/
 
 ## 🤝 How to Contribute
 
-We welcome contributions that help us better understand and solve healthcare challenges through **P2P technology**! Here's how you can help:
+We welcome contributions that help us better understand and solve healthcare challenges through **P2P technology**! 
+Pull Requests are welcome, and will be reviewed to allow us to fully discuss the contents as part of discovery.
+Here's how you can help:
 
 ### 🍴 Contributing via GitHub
 
@@ -83,7 +85,7 @@ We welcome contributions that help us better understand and solve healthcare cha
 #### For Project Members
 
 - Edit files directly in the repository
-- Create branches for larger contributions
+- Create branches for Pull Request review
 - Follow the same quality guidelines
 
 ### 📝 What to Contribute
