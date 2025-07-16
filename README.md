@@ -63,32 +63,60 @@ discovery/
 
 We welcome contributions that help us better understand and solve healthcare challenges through **P2P technology**! Here's how you can help:
 
-### Adding Problems
+### 🍴 Contributing via GitHub
+
+#### For External Contributors (Recommended)
+
+1. **Fork this repository** - Click the "Fork" button in the top-right corner
+2. **Edit files in your fork** using GitHub's web interface:
+   - Navigate to the file you want to edit
+   - Click the pencil icon (✏️) to edit
+   - Make your changes using the built-in editor
+   - Follow the templates in each section's README
+3. **Commit your changes** with a descriptive message
+4. **Create a Pull Request**:
+   - Go to your forked repository
+   - Click "Contribute" → "Open pull request"
+   - Describe your contribution and how it relates to P2P healthcare
+   - Submit for review
+
+#### For Project Members
+
+- Edit files directly in the repository
+- Create branches for larger contributions
+- Follow the same quality guidelines
+
+### 📝 What to Contribute
+
+#### Adding Problems
 
 - Document systemic issues in `1_Problems/problems/`
 - Share real-world experiences in `1_Problems/user_stories/`
 - Focus on problems caused by lack of **patient-controlled, P2P** EHR
+- Use the templates provided in each section's README
 
-### Proposing P2P Solutions
+#### Proposing P2P Solutions
 
 - Reference specific problems being solved
 - Leverage **Pear and Holepunch capabilities**
 - Consider cross-impact on other user scenarios
 - Think holistically about **patient data sovereignty**
 
-### Creating Visual Stories
+#### Creating Visual Stories
 
 - Generate AI comics that illustrate P2P concepts
 - Show transformation from data silos to patient control
 - Make peer-to-peer technology accessible to all audiences
 
-### Guidelines
+### ✅ Contribution Guidelines
 
-- Use clear, descriptive titles
-- Provide concrete examples and scenarios
-- Consider the **patient-as-sovereign** perspective in all contributions
-- Reference related problems/solutions when applicable
-- Emphasize **direct peer connections** and **data ownership**
+- **Use clear, descriptive titles** - Help others understand your contribution
+- **Follow the templates** - Each section has specific formats to maintain consistency
+- **Provide concrete examples** - Real-world scenarios make problems and solutions tangible
+- **Consider the patient-as-sovereign perspective** - All contributions should emphasize patient data ownership
+- **Reference related content** - Link to related problems/solutions when applicable
+- **Emphasize P2P technology** - Focus on **direct peer connections** and **data sovereignty**
+- **Be respectful** - Maintain professional, healthcare-appropriate language
 
 ## 🎨 Methodology
 
