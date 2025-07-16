@@ -1,57 +1,96 @@
-# 🧩 User Story: I Want Control of My Health Info as I Grow Up
+# Growing Up - Health Record Control Transition
 
-## 🧒 User  
-A child growing into a young adult, starting with parental support and later seeking privacy and independence in health matters.
+## User Profile
 
-## 🎯 Goal  
-To have my parent manage my health records when I’m young — but be able to take control of my own data, especially when it comes to private or sensitive healthcare as I get older.
+- **Age**: 15-18 years old transitioning to adulthood
+- **Demographics**: Any teenager moving from parental healthcare management to independence
+- **Health status**: General health with potential sensitive healthcare needs
+- **Technology comfort level**: High - digital native generation
+- **Healthcare context**: Transitioning from pediatric to adult care systems
+
+## Current Journey
+
+### The Scenario
+
+A teenager needs to gradually gain control over their health information as they mature, while maintaining parental support when appropriate and gaining privacy for sensitive healthcare decisions.
+
+### Touchpoints
+
+- **Age 0-15**: Parent manages all health appointments, records, and decisions
+- **Age 15-16**: Need for private healthcare advice (STI testing, contraception, mental health)
+- **Age 16-18**: Legal rights to some healthcare decisions but systems still parent-controlled
+- **Age 18+**: Legal adult but clunky transition to full healthcare autonomy
+
+### Pain Points
+
+- **Records are either fully parent-managed or fully locked** - no gradual handover
+- **Sensitive health access can be blocked** by rigid systems or fear of disclosure
+- **No trusted way to privately access and share** just what they need
+- **Once turning 18, switching control is clunky** or doesn't happen at all
+
+### Workarounds
+
+- Avoiding necessary healthcare to maintain privacy
+- Using different healthcare providers to keep information separate
+- Waiting until 18 to seek sensitive healthcare
+- Parents accompanying to all appointments regardless of privacy needs
+
+## Critical Moments
+
+### P2P Intervention Points
+
+Where could **patient-centralized, peer-to-peer data** using Pear/Holepunch have helped?
+
+- **Age 16**: Could start making choices about data sharing, giving sexual health clinic access to only what's needed
+- **Gradual transition**: Delegated access allows parent management while maintaining patient sovereignty
+- **Private consultations**: Direct P2P sharing for sensitive appointments without parent visibility
+- **Age 18**: Seamless transition to full control with no data loss or administrative hassle
+
+### Potential Impact
+
+How would the experience change with **patient-controlled, P2P health records**?
+
+- **Delegated access**: Parent manages health record by default, but it remains the patient's record
+- **Age-aware permissions**: At 16, can start making choices about sharing certain data, hiding others
+- **Private, direct sharing**: Can give providers access to only what's needed, just for specific appointments
+- **Seamless transition**: At 18, control transfers fully with no data loss or admin hassle
+
+## Emotional Journey
+
+- **Early years**: Trust and dependence on parental healthcare management
+- **Teen years**: Frustration with lack of privacy, fear of disclosure, anxiety about healthcare access
+- **Young adult**: Relief at gaining control, but confusion about transition process
+- **Successful transition**: Empowerment and confidence in managing own healthcare data
+
+## Systemic Issues Revealed
+
+- Healthcare systems designed for binary child/adult states, not gradual transitions
+- Privacy laws not reflected in technical systems and workflows
+- Provider discomfort with teen patient confidentiality requirements
+- Lack of patient data sovereignty throughout lifecycle
+
+## Solution Opportunities
+
+What **patient-centralized, P2P features** using Pear/Holepunch could address these challenges?
+
+- **Cryptographic ownership**: Patient owns data from birth, with delegated management
+- **Granular permissions**: Share specific health data with specific providers for limited time
+- **Age-aware controls**: Automatic expansion of patient control based on legal age and capacity
+- **Direct P2P connections**: Private healthcare consultations without institutional intermediaries
+- **Seamless handovers**: No system migrations or data transfers at age transitions
+
+## P2P Solution Touchpoints
+
+Look for moments where **patient-centralized, peer-to-peer EHR** using Pear/Holepunch could:
+
+- Enable private teen healthcare without system workarounds
+- Provide gradual control transition aligned with developmental needs
+- Allow selective sharing for sensitive appointments
+- Maintain complete health history throughout lifecycle transitions
+- Empower young adults with immediate full data control
 
 ---
 
-## 👶 My Early Years  
-When I was little, my mum took me to the GP, booked appointments, kept track of my vaccines, and talked to doctors for me. That made sense — I didn’t understand any of it.
+**✅ Success Vision**: A healthcare system where patients feel safe asking for help with sensitive health issues, aren't forced to choose between getting care and keeping things private, can rely on parental support when young while gaining independence as they grow, and maintain sovereign control of health records that grow with them throughout their lives.
 
-But all my medical stuff was *hers to manage*, not mine. I didn’t have access, or even know what was in it.
-
----
-
-## 👧 Becoming a Teen  
-Now I’m 15, and I’m starting to deal with my own health stuff. I might want to go to an STI clinic. I might want to ask questions about contraception or mental health.
-
-But if all my health records still go through my parent, I can’t **get private advice**. I might not go at all — which could be dangerous for me.
-
----
-
-## 🎓 Turning 16–18  
-At **16**, I should be able to:
-- Make some health decisions on my own  
-- Share **just part of my record** (e.g. STI test results) with a clinician  
-- **Keep some visits or info private** from my parents if it’s allowed by law
-
-Then, at **18**, I want:
-- **Full control** of my health record  
-- To be able to **revoke or continue access** for my parent, just like I would for anyone else
-
----
-
-## 🔍 What’s Broken in Today’s Systems  
-- Records are either fully parent-managed or fully locked — there’s no gradual handover  
-- Sensitive health access can be blocked by rigid systems or fear of disclosure  
-- Teens don’t have a **trusted way to privately access and share just what they need**  
-- Once I turn 18, switching control is clunky or doesn’t happen at all
-
----
-
-## 🔁 What Peer-to-Peer Records Could Enable  
-- **Delegated access**: My parent manages my health record by default — but it’s still my record  
-- **Age-aware permissions**: At 16, I can start making choices — sharing certain data, hiding others  
-- **Private, direct sharing**: I can give a sexual health clinic access to only what’s needed, just for that appointment  
-- **Seamless transition**: At 18, control transfers fully to me with no data loss or admin hassle
-
----
-
-## ✅ What Success Looks Like for Me  
-- I feel safe asking for help with sensitive health issues  
-- I’m not forced to choose between getting care and keeping things private  
-- My parent helps me when I’m young, but respects my independence as I grow  
-- My health record grows **with me** — and stays mine
+_Related problems: Shared user identity, Care coordination across age transitions_
